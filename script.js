@@ -16,17 +16,17 @@ function setGradient() {
 }
 
 
-function randomizar() {
+// function randomizar() {
 
-	body.style.background = 
-	"linear-gradient(to right, " 
-	+ Math.floor(Math.random()*255);
-	+ ", " 
-	+ Math.floor(Math.random()*255);
-	+ ")";
+// 	body.style.background = 
+// 	"linear-gradient(to right, " 
+// 	+ Math.floor(Math.random()*255);
+// 	+ ", " 
+// 	+ Math.floor(Math.random()*255);
+// 	+ ")";
 
-	css.textContent = body.style.background + ";";
-}
+// 	css.textContent = body.style.background + ";";
+// }
 
 
 
