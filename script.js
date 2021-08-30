@@ -15,6 +15,7 @@ function setGradient() {
 	css.textContent = body.style.background + ";";
 }
 
+// função ainda nao está pronta... tenho que arrumar um jeito de receber o valor da cor como numero...
 
 // function randomizar() {
 
